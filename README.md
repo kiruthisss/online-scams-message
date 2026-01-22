@@ -8,4 +8,5 @@ This project detects whether a message is *Scam* or *Not Scam* using Machine Lea
 - Scikit-learn
 
 ## How to Run
-streamlit run app.py
+
+streamlit run msgscamapp.py
